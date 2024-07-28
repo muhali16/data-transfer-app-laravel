@@ -1,6 +1,6 @@
 # File Transfer Web App
 
-## Prerequsite
+## Prerequisite
 * Composer 2.0
 * PHP 8.2+
 * MySQL 
